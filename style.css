@@ -56,3 +56,43 @@ button:active {
     font-weight: bold;
     color: #0d6efd;
 }
+
+
+
+
+
+
+
+
+
+//flex-direction: define o fluxo de exibição em que os elementos serão organizados
+//row (padrão): linha da esquerda para a direita
+//row-reverse: linha da direita para a esquerda
+//column: colunas iniciando de cima para baixo
+//column-reverse: colunas iniciando de baixo para cima
+
+//flex-wrap: permite que ocorra a “quebra de linha” nos itens
+//nowrap (padrão): Todos os itens serão dispostos em uma linha
+//wrap: Ocorrerá a quebra de linha e os itens mais à direita serão deslocados para a linha de baixo
+//wrap-reverse: Ocorrerá a quebra de linha e os itens mais à direita serão deslocados para a linha de cima
+
+//flex-flow: abreviação das propriedades flex-direction e flex-wrap
+
+//justify-content: alinhamento dos itens ao longo do eixo principal do container
+//flex-start (padrão): itens são alinhados a partir do início do eixo principal
+//flex-end: itens são alinhados a partir do fim do eixo principal
+//center: itens são alinhados no centro do eixo principal
+//space-between: O primeiro item fica no início do eixo principal, o último fica no fim do eixo principal e os demais são distribuídos uniformemente entre eles
+//space-around: Os itens são uniformemente distribuídos ao longo do eixo principal
+
+//align-content
+//propriedade utilizada para alinhar as linhas flexíveis
+//stretch (padrão)
+//flex-start
+//flex-end
+//center
+//space-between
+//space-around
+
+
+
